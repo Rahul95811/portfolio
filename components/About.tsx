@@ -48,7 +48,7 @@ const About: React.FC = () => {
                             institution="GITAM University"
                             degree="B.Tech Computer Science and Engineering"
                             period="2023 - 2027"
-                            grade="CGPA - 8.87"
+                            grade="CGPA - 8.9"
                         />
                         <EducationCard
                             institution="Sri Gayatri Jr College"
